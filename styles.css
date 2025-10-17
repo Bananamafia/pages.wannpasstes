@@ -21,7 +21,7 @@ body {
 
 .text-content {
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, Anton, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: var(--font-size);
     color: var(--font-color);
 }
